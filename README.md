@@ -34,3 +34,6 @@ What needs explaining? 2D Fighting games are almost all the same from a design s
 
 combo technique notes
 http://www.dreamincode.net/forums/topic/147144-2d-fighter-what-do-i-need/
+
+finite state machine- useful for combo storing 
+http://en.wikipedia.org/wiki/Finite-state_machine
