@@ -25,9 +25,12 @@ http://www.dreamincode.net/forums/topic/147144-2d-fighter-what-do-i-need/
 
 tip from reddit 
 
-[–]Zaph0d42 1 point 1 year ago 
+[â€“]Zaph0d42 1 point 1 year ago 
 Its really just the combination of:
 a sprite renderer, (tutorials everywhere)
 a basic 2D box collision system, (tutorials everywhere)
 and an input buffer system to detect combos. (tutorials everywhere)
 What needs explaining? 2D Fighting games are almost all the same from a design standpoint. The complicated part is just the art, animations, and the balancing of the characters and movesets.
+
+combo technique notes
+http://www.dreamincode.net/forums/topic/147144-2d-fighter-what-do-i-need/
